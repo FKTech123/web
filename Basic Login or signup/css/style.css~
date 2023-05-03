@@ -1,0 +1,41 @@
+        body {
+            padding: 10%;
+            border-radius: 5px;
+            border-width: 5px;
+            border-style: groove;
+        }
+        
+        form {
+            border: 3px double #f1f1f1;
+            padding: 15px;
+            border
+        }
+        
+        legend {
+            color: #622d00;
+        }
+        
+        label {
+            display: inline-block;
+            width: 200px;
+            font-size: 20px;
+            padding-inline-end: 10%;
+        }
+        
+        input,
+        select,
+        textarea {
+            padding: 5px;
+            margin-top: 5px;
+            font-family: sans-serif;
+            font-size: 15px;
+        }
+        
+        #radio {
+            font-size: 15px;
+        }
+        
+        select,
+        textarea {
+            width: 175px;
+        }
